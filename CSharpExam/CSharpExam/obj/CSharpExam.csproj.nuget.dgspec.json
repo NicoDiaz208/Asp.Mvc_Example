@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\Anwender\\Documents\\Schule\\5BHIF\\Prog\\Test-Learn\\CSharpExam\\CSharpExam\\CSharpExam\\CSharpExam.csproj": {}
+    "C:\\Users\\Anwender\\Documents\\Github\\Asp.Mvc_Example\\CSharpExam\\CSharpExam\\CSharpExam.csproj": {}
   },
   "projects": {
-    "C:\\Users\\Anwender\\Documents\\Schule\\5BHIF\\Prog\\Test-Learn\\CSharpExam\\CSharpExam\\CSharpExam\\CSharpExam.csproj": {
+    "C:\\Users\\Anwender\\Documents\\Github\\Asp.Mvc_Example\\CSharpExam\\CSharpExam\\CSharpExam.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Anwender\\Documents\\Schule\\5BHIF\\Prog\\Test-Learn\\CSharpExam\\CSharpExam\\CSharpExam\\CSharpExam.csproj",
+        "projectUniqueName": "C:\\Users\\Anwender\\Documents\\Github\\Asp.Mvc_Example\\CSharpExam\\CSharpExam\\CSharpExam.csproj",
         "projectName": "CSharpExam",
-        "projectPath": "C:\\Users\\Anwender\\Documents\\Schule\\5BHIF\\Prog\\Test-Learn\\CSharpExam\\CSharpExam\\CSharpExam\\CSharpExam.csproj",
+        "projectPath": "C:\\Users\\Anwender\\Documents\\Github\\Asp.Mvc_Example\\CSharpExam\\CSharpExam\\CSharpExam.csproj",
         "packagesPath": "C:\\Users\\Anwender\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Anwender\\Documents\\Schule\\5BHIF\\Prog\\Test-Learn\\CSharpExam\\CSharpExam\\CSharpExam\\obj\\",
+        "outputPath": "C:\\Users\\Anwender\\Documents\\Github\\Asp.Mvc_Example\\CSharpExam\\CSharpExam\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\Anwender\\AppData\\Roaming\\NuGet\\NuGet.Config",

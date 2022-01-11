@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "4M9SiulMKz6qLDN7K9SkeyfFRZeNkhSKKEQDVtGYf3bwbOtZqaLBPnO5nup9PW4K/7dwqeX9Q+J4YQ4DN+M5kQ==",
+  "dgSpecHash": "mjOhxPJSAQxGgMHO+zZaIzQEk1QErGa3mraBKHhCL7N6bf84fnYK/nHdSTPU7oSmEeB2Ii0BIlWXfLuswKVi/Q==",
   "success": true,
-  "projectFilePath": "C:\\Users\\Anwender\\Documents\\Schule\\5BHIF\\Prog\\Test-Learn\\CSharpExam\\CSharpExam\\CSharpExam\\CSharpExam.csproj",
+  "projectFilePath": "C:\\Users\\Anwender\\Documents\\Github\\Asp.Mvc_Example\\CSharpExam\\CSharpExam\\CSharpExam.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\Anwender\\.nuget\\packages\\humanizer.core\\2.8.26\\humanizer.core.2.8.26.nupkg.sha512",
     "C:\\Users\\Anwender\\.nuget\\packages\\microsoft.aspnetcore.html.abstractions\\2.2.0\\microsoft.aspnetcore.html.abstractions.2.2.0.nupkg.sha512",
